@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Opixior
 - 👀 I’m interested in Software Dev, Game Dev and Cryptography
-- 🌱 I’m currently an incoming Comp Sci student
+- 🌱 2nd Yr Comp Sci student
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: In the planning stages of creating a new cipher! 
