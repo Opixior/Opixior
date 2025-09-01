@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Opixior
-- 👀 I’m interested in Software Dev, Game Dev and Cryptography
+- 👋 Hi, I’m Sophie or @Opixior
+- 👀 I’m interested in Software Dev, Game Dev, Cyber Security and Cryptography
 - 🌱 2nd Yr Comp Sci student
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: In the planning stages of creating a new cipher! 
